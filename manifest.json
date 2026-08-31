@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "표준 e-사람 보수입력 Semi-RPA v6.2",
+  "version": "6.2.0",
+  "description": "화면값 비교와 자동입력을 제거하고, 개인별 XLSX 예정금액 복사·전월자료 복사·저장만 지원하는 표준 e-사람 Semi-RPA",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "표준 e-사람 보수입력 Semi-RPA v6.1"
+  }
+}
